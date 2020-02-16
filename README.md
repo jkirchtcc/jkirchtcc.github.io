@@ -1,1 +1,0 @@
-# jkirchtcc.github.io
