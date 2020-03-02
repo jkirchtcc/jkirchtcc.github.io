@@ -67,7 +67,7 @@
 **Video: Verifying the Ruleset**\
 [https://www.youtube.com/watch?v=IiH3vtWXJH0](https://www.youtube.com/watch?v=IiH3vtWXJH0)
  
-**Reference: tcpdump: “packets captured” vs “packets received by filter”**\
+**Reference: `tcpdump: “packets captured” vs “packets received by filter”`**\
 [http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter](http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter)
 
 ---
