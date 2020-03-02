@@ -1,26 +1,40 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" href="/css/github-markdown.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/ITN261">ITN261</a></li>
-	        		<li><a href="/ITN262">ITN262</a></li>
-	        		<li><a href="/ITN263_readings.md">ITN263</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			
-			</div><!-- /.container -->
-			<footer>
-	        		<a href="https://github.com/jkirchtcc">github.com/jkirchtcc</a></li>
-			</footer>
-		</body>
-	</html>
+<html>
+<head>
+	<title>{{ page.title }}</title>
+	<!-- link to main stylesheet -->
+	<link rel="stylesheet" href="/css/github-markdown.css">
+	<style>
+	.markdown-body {
+	box-sizing: border-box;
+	min-width: 200px;
+	max-width: 980px;
+	margin: 0 auto;
+	padding: 45px;
+}
+	@media (max-width: 767px) {
+	.markdown-body {
+		padding: 15px;
+	}
+	}
+	</style>
+</head>
+<body>
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+	        	<li><a href="/ITN261">ITN261</a></li>
+	       		<li><a href="/ITN262">ITN262</a></li>
+	       		<li><a href="/ITN263_readings.md">ITN263 MD</a></li>
+	       		<li><a href="/ITN263_readings">ITN263</a></li>
+	       		<li><a href="/ITN263_readings.html">ITN263 HTML</a></li>
+    		</ul>
+	</nav>
+<div class="container">
+	{{ content }}
+</div><!-- /.container -->
+<footer>
+	<a href="https://github.com/jkirchtcc">github.com/jkirchtcc</a></li>
+</footer>
+</body>
+</html>
