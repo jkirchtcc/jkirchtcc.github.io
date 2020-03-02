@@ -57,7 +57,7 @@
 
 **Video: Configuring a Basic VyOS Router**\
 [https://www.youtube.com/watch?v=hI7ngVvfqpE](https://www.youtube.com/watch?v=hI7ngVvfqpE)\
- 
+
 **Video: Executing a UDP Flood Attack**\
 [https://www.youtube.com/watch?v=vbszkTQF6gU](https://www.youtube.com/watch?v=vbszkTQF6gU)\
 
@@ -66,7 +66,7 @@
 
 **Video: Verifying the Ruleset**\
 [https://www.youtube.com/watch?v=IiH3vtWXJH0](https://www.youtube.com/watch?v=IiH3vtWXJH0)\
- 
+
 **Reference: `tcpdump: “packets captured” vs “packets received by filter”`**\
 [http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter](http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter)\
 
