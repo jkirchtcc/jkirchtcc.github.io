@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=6X5TwvGXHP0
 ##### Book: The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
 **Chapter 15. Firewalls** \
 https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-art-of/0321444426/ch15.html  
- 
+
 **Video: Configuring a Basic VyOS Router** \
 https://www.youtube.com/watch?v=hI7ngVvfqpE  
  
