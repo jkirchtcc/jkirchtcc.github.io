@@ -1,22 +1,25 @@
 # ITN-263 Internet/Intranet Firewalls and E-Commerce Security
 ---
 ## Unit 02 Reading / Viewing Material
-##### Book: TCP/IP Guide
+### Book: TCP/IP Guide
 **Chapter 1 - NETWORKING INTRODUCTION, CHARACTERISTICS, AND TYPES** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch01.html  
-##### Book: TCP/IP Guide
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch01.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch01.html)
+
+### Book: TCP/IP Guide
 **Chapter 2 - NETWORK PERFORMANCE ISSUES AND CONCEPTS** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch02.html  
-##### Book: TCP/IP Guide
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch02.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch02.html)
+
+### Book: TCP/IP Guide
 **Chapter 3 - NETWORK STANDARDS AND STANDARDS ORGANIZATIONS** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch03.html  
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch03.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch03.html)
+
 ##### Book: TCP/IP Guide
 **Chapter 4 - A REVIEW OF DATA REPRESENTATION AND THE MATHEMATICS OF COMPUTING**  \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch04.html
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch04.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch04.html)
 
 **Video: 20059 NET1 - Introduction to TCP/IP Communication** \
 *(3 hours long, watch it at 1.5 speed, and get some popcorn)* \
-https://www.youtube.com/watch?v=xlRq6pwcINY  
+[https://www.youtube.com/watch?v=xlRq6pwcINY](https://www.youtube.com/watch?v=xlRq6pwcINY)
 
 ---        
 ## Unit 03 Reading / Viewing Material
