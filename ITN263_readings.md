@@ -50,22 +50,22 @@ https://www.youtube.com/watch?v=6X5TwvGXHP0 \
 ## Unit 04 Reading / Viewing Material
 ##### Book: The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
 **Chapter 15. Firewalls** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-art-of/0321444426/ch15.html \
+https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-art-of/0321444426/ch15.html  
  
 **Video: Configuring a Basic VyOS Router** \
-https://www.youtube.com/watch?v=hI7ngVvfqpE \
+https://www.youtube.com/watch?v=hI7ngVvfqpE  
  
 **Video: Executing a UDP Flood Attack** \
-https://www.youtube.com/watch?v=vbszkTQF6gU \
+https://www.youtube.com/watch?v=vbszkTQF6gU  
 
 **Video: Adding a Stateless Firewall** \
-https://www.youtube.com/watch?v=kr0CjV5dHvI \
+https://www.youtube.com/watch?v=kr0CjV5dHvI  
 
 **Video: Verifying the Ruleset** \
-https://www.youtube.com/watch?v=IiH3vtWXJH0 \
+https://www.youtube.com/watch?v=IiH3vtWXJH0  
  
-**Reference: tcpdump: “packets captured” vs “packets received by filter”**\
-http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter \
+**Reference: tcpdump: “packets captured” vs “packets received by filter”** \
+http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter  
 
 ---
 ## Unit 05 Reading / Viewing Material
