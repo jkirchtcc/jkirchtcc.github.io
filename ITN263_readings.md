@@ -3,69 +3,69 @@
 ## Unit 02 Reading / Viewing Material
 ##### Book: TCP/IP Guide
 **Chapter 1 - NETWORKING INTRODUCTION, CHARACTERISTICS, AND TYPES** \
-    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch01.html
+    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch01.html \
 ##### Book: TCP/IP Guide
 **Chapter 2 - NETWORK PERFORMANCE ISSUES AND CONCEPTS** \
-    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch02.html
+    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch02.html \
 ##### Book: TCP/IP Guide
 **Chapter 3 - NETWORK STANDARDS AND STANDARDS ORGANIZATIONS** \
-    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch03.html
+    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch03.html \
 ##### Book: TCP/IP Guide
 **Chapter 4 - A REVIEW OF DATA REPRESENTATION AND THE MATHEMATICS OF COMPUTING**  \
-    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch04.html
+    https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/tcpip-guide/9781593270476/ch04.html \
 
 **Video: 20059 NET1 - Introduction to TCP/IP Communication** \
 *(3 hours long, watch it at 1.5 speed, and get some popcorn)* \
-    https://www.youtube.com/watch?v=xlRq6pwcINY
+    https://www.youtube.com/watch?v=xlRq6pwcINY \
 
 ---        
 ## Unit 03 Reading / Viewing Material
 ##### Book: SSH, The Secure Shell: The Definitive Guide, 2nd Edition
 **Chapter 1 - Introduction to SSH** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ssh-the-secure/0596008953/ch01.html
+https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ssh-the-secure/0596008953/ch01.html \
 
 ##### Book: SSH, The Secure Shell: The Definitive Guide, 2nd Edition
 **Chapter 18 - PuTTY for Windows** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ssh-the-secure/0596008953/ch18.html
+https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ssh-the-secure/0596008953/ch18.html \
 
 **PuTTY Download: putty.zip** *(a .ZIP archive of all the above)* \
-https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html \
 
 **Video: Easily setup PuTTY SSH keys for passwordless logins using Pageant** \
-https://youtu.be/2nkAQ9M6ZF8?t=4m45s
+https://youtu.be/2nkAQ9M6ZF8?t=4m45s \
 
 **Video: Putty ssh private + public key windows and linux with puttygen** \
-https://www.youtube.com/watch?v=2ZIaPFv2VhI&t
+https://www.youtube.com/watch?v=2ZIaPFv2VhI&t \
 
 **Video: How to protect SSH with Fail2Ban on CentOS 7** \
-https://www.youtube.com/watch?v=bBoD2z0V8w8&t 
+https://www.youtube.com/watch?v=bBoD2z0V8w8&t \
 
 **Tutorial: How to protect SSH with Fail2Ban on CentOS 7** \
-https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-centos-7
+https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-centos-7 \
 
 **Video: HakTip - How to Capture Packets with Wireshark - Getting Started** \
-https://www.youtube.com/watch?v=6X5TwvGXHP0
+https://www.youtube.com/watch?v=6X5TwvGXHP0 \
 
 ---
 ## Unit 04 Reading / Viewing Material
 ##### Book: The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities
 **Chapter 15. Firewalls** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-art-of/0321444426/ch15.html
+https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-art-of/0321444426/ch15.html \
  
 **Video: Configuring a Basic VyOS Router** \
-https://www.youtube.com/watch?v=hI7ngVvfqpE
+https://www.youtube.com/watch?v=hI7ngVvfqpE \
  
 **Video: Executing a UDP Flood Attack** \
-https://www.youtube.com/watch?v=vbszkTQF6gU
+https://www.youtube.com/watch?v=vbszkTQF6gU \
 
 **Video: Adding a Stateless Firewall** \
-https://www.youtube.com/watch?v=kr0CjV5dHvI
+https://www.youtube.com/watch?v=kr0CjV5dHvI \
 
 **Video: Verifying the Ruleset** \
-https://www.youtube.com/watch?v=IiH3vtWXJH0
+https://www.youtube.com/watch?v=IiH3vtWXJH0 \
  
 **Reference: tcpdump: “packets captured” vs “packets received by filter”**\
-http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter
+http://unix.stackexchange.com/questions/29367/tcpdump-packets-captured-vs-packets-received-by-filter \
 
 ---
 ## Unit 05 Reading / Viewing Material
