@@ -73,24 +73,24 @@
 ---
 ## Unit 05 Reading / Viewing Material
 **Video: #1 VyOS/Vyatta Installation and Configuration** \
-https://www.youtube.com/watch?v=mX_KIrSb6mE&feature=youtu.be
+[https://www.youtube.com/watch?v=mX_KIrSb6mE&feature=youtu.be](https://www.youtube.com/watch?v=mX_KIrSb6mE&feature=youtu.be)\
 
 **Video: #2 VyOS/Vyatta Configuring to replace your off-the-shelf router** \
-https://www.youtube.com/watch?v=S1bJpsS27Qk&feature=youtu.be+
+[https://www.youtube.com/watch?v=S1bJpsS27Qk&feature=youtu.be+](https://www.youtube.com/watch?v=S1bJpsS27Qk&feature=youtu.be+)\
 
 **Video: #3 VyOS/Vyatta NAT, NAT Reflection, Port fowarding** \
-https://www.youtube.com/watch?v=bfQWY3XY3SI&feature=youtu.be
- 
+[https://www.youtube.com/watch?v=bfQWY3XY3SI&feature=youtu.be](https://www.youtube.com/watch?v=bfQWY3XY3SI&feature=youtu.be)\
+
 **Video: 9.2 Examining Types of Firewalls** \
-https://www.youtube.com/watch?v=mIEMGTJKo-o
- 
+[https://www.youtube.com/watch?v=mIEMGTJKo-o](https://www.youtube.com/watch?v=mIEMGTJKo-o)\
+
 **Video: 9.3 Understanding Stateful vs Stateless Inspection** \
-https://www.youtube.com/watch?v=EACPs85BhYQ
+[https://www.youtube.com/watch?v=EACPs85BhYQ](https://www.youtube.com/watch?v=EACPs85BhYQ)\
 
 ---
 ## Unit 06 Reading / Viewing Material
 #### Linux Firewalls
-##### Book: Linux Essentials for Cybersecurity, First Edition
+### Book: Linux Essentials for Cybersecurity, First Edition
 **Chapter 31 Firewalls** \
 https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html
 
