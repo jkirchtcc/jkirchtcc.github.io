@@ -128,7 +128,7 @@ MIDTERM
 
 ---
 ## Unit 08 Reading / Viewing Material
-##### Book: CCENT/CCNA ICND1 100-105 Official Certification Guide
+### Book: CCENT/CCNA ICND1 100-105 Official Certification Guide
 **Chapter 27 - Network Address Translation** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ccentccna-icnd1-100-105/9780134440903/ch27.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ccentccna-icnd1-100-105/9780134440903/ch27.html)\
 
@@ -143,7 +143,7 @@ MIDTERM
 
 ---
 ## Unit 09 Reading / Viewing Material
-##### Book: A Practical Guide to Ubuntu Linux®, Fourth Edition
+### Book: A Practical Guide to Ubuntu Linux®, Fourth Edition
 **Chapter 26 - ufw, gufw, and iptables: Setting Up a Firewall** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/a-practical-guide/9780133927368/ch26.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/a-practical-guide/9780133927368/ch26.html)\
  
@@ -172,7 +172,7 @@ MIDTERM
 
 ---
 ## Unit 11 Reading / Viewing Material
-##### Book: Linux® Firewalls: Enhancing Security with nftables and Beyond, Fourth Edition
+### Book: Linux® Firewalls: Enhancing Security with nftables and Beyond, Fourth Edition
 **Chapter 7 - Packet Forwarding** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-firewalls-enhancing/9780134000206/ch07.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-firewalls-enhancing/9780134000206/ch07.html)\
 
@@ -190,7 +190,7 @@ MIDTERM
 
 ---
 ## Unit 12 Reading / Viewing Material
-##### Book: VPNs Illustrated: Tunnels, VPNs, and IPsec
+### Book: VPNs Illustrated: Tunnels, VPNs, and IPsec
 **Chapter 5. Lightweight VPNs** *(Specifically, section 8.5 OpenVPN)* \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch08.xhtml](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch08.xhtml)\
 
@@ -233,7 +233,7 @@ MIDTERM
 
 ---
 ## Unit 14 Reading / Viewing Material
-##### Book: VPNs Illustrated: Tunnels, VPNs, and IPsec
+### Book: VPNs Illustrated: Tunnels, VPNs, and IPsec
 **Chapter 5 - Virtual Private Networks** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch05.xhtml](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch05.xhtml)\
 
