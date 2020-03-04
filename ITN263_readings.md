@@ -89,7 +89,7 @@
 
 ---
 ## Unit 06 Reading / Viewing Material
-#### Linux Firewalls
+#### _Linux Firewalls
 ### Book: Linux Essentials for Cybersecurity, First Edition
 **Chapter 31 Firewalls** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html)\
@@ -146,7 +146,7 @@ MIDTERM
 ### Book: A Practical Guide to Ubuntu Linux®, Fourth Edition
 **Chapter 26 - ufw, gufw, and iptables: Setting Up a Firewall** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/a-practical-guide/9780133927368/ch26.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/a-practical-guide/9780133927368/ch26.html)\
- 
+
 **Video: 6.12 Understanding Firewalling** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-troubleshooting-red/9780135207598/9780135207598-LTRB_02_06_12](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-troubleshooting-red/9780135207598/9780135207598-LTRB_02_06_12)\
 
