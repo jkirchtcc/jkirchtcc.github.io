@@ -55,13 +55,13 @@
  
 **Article: NetworkMiner**\
 [https://www.netresec.com/?page=NetworkMiner](https://www.netresec.com/?page=NetworkMiner)\
- 
+
 **Video: Introduction to Packet Analysis - Part 11: Packet Analysis with Network Miner (Part 1)**\
 [https://www.youtube.com/watch?v=p28z6nnKN9o&index=27&list=PLZOToVAK85MpiuxbK7Sg6CtQtlW9QygC-](https://www.youtube.com/watch?v=p28z6nnKN9o&index=27&list=PLZOToVAK85MpiuxbK7Sg6CtQtlW9QygC-)\
- 
+
 **Video: Introduction to Packet Analysis - Part 12: Packet Analysis with Network Miner (Part 2)**\
 [https://www.youtube.com/watch?v=JiVgED9UkC4&list=PLZOToVAK85MpiuxbK7Sg6CtQtlW9QygC-&index=28](https://www.youtube.com/watch?v=JiVgED9UkC4&list=PLZOToVAK85MpiuxbK7Sg6CtQtlW9QygC-&index=28)\
- 
+
 **Video: Hacker History: The Great DNS Vulnerability of 2008 by Dan Kaminsky**\
 [https://www.youtube.com/watch?v=B-v_wJIJUI4](https://www.youtube.com/watch?v=B-v_wJIJUI4)\
 
@@ -78,7 +78,7 @@
 ### Book: The Network Security Test Lab: A Step-by-Step Guide
 **Chapter 3. Analyzing Network Traffic**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-network-security/9781118987056/c03.xhtml](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-network-security/9781118987056/c03.xhtml)\
- 
+
 **Reference Book: The Wireshark Field Guide**\
 `Use this a reference as needed`\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-wireshark-field/9780124104136/xhtml/Cover.xml](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-wireshark-field/9780124104136/xhtml/Cover.xml)\
@@ -114,7 +114,7 @@
 ## Unit 08 Reading / Viewing Material
 **Video: Using AWK to format output | theurbanpenguin**\
 [https://www.youtube.com/watch?v=fCw-xf31M_s](https://www.youtube.com/watch?v=fCw-xf31M_s)\
- 
+
 **Video: Use AWK to extract & format Linux log file output | techbylooney.com**\
 [https://www.youtube.com/watch?v=h_Gj3rqOUg0](https://www.youtube.com/watch?v=h_Gj3rqOUg0)\
 
@@ -137,7 +137,7 @@ MIDTERM
 ### Book: Practical Intrusion Analysis: Prevention and Detection for the Twenty-First Century
 **Chapter 3 - Intrusion Detection Systems**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/practical-intrusion-analysis/9780321591890/ch03.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/practical-intrusion-analysis/9780321591890/ch03.html)\
- 
+
 **Video: CCNA Security 210-260: IPS Configuration Basics Rules and Detection Methods**\
 [https://www.youtube.com/watch?v=BKhCR7tNUss](https://www.youtube.com/watch?v=BKhCR7tNUss)\
 
@@ -201,13 +201,13 @@ MIDTERM
 ## Unit 13 Reading / Viewing Material
 **Video: Setting Up the Virtual Environment**\
 [https://www.youtube.com/watch?v=jfVItjg7Qp4](https://www.youtube.com/watch?v=jfVItjg7Qp4)\
- 
+
 **Video: Defining a SNORT Rule Comprised of Only the Header Section**\
 [https://www.youtube.com/watch?v=OiWLLkaGzf0](https://www.youtube.com/watch?v=OiWLLkaGzf0)\
- 
+
 **Video: Verifying It Works**\
 [https://www.youtube.com/watch?v=f48uHdHIDeE](https://www.youtube.com/watch?v=f48uHdHIDeE)\
- 
+
 **Video: Defining a SNORT Rule Comprised of Both the Header and Options Sections**\
 [https://www.youtube.com/watch?v=MsNyNR5hiIU](https://www.youtube.com/watch?v=MsNyNR5hiIU)\
 
@@ -249,3 +249,5 @@ MIDTERM
 
 **Video: Testing the IPS Rule**\
 [https://www.youtube.com/watch?v=FfLfXbsOOC0](https://www.youtube.com/watch?v=FfLfXbsOOC0)\
+
+---
