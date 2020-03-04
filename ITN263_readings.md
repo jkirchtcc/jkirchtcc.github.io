@@ -89,7 +89,7 @@
 
 ---
 ## Unit 06 Reading / Viewing Material
-#### _Linux Firewalls
+#### Linux Firewalls
 ### Book: Linux Essentials for Cybersecurity, First Edition
 **Chapter 31 Firewalls** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html)\
