@@ -239,10 +239,10 @@ MIDTERM
 
 **Video: 6.6 Implement a VPN connection** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/windows-server-70-741/9780134772974/9780134772974-WS41_01_06_06](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/windows-server-70-741/9780134772974/9780134772974-WS41_01_06_06)\
- 
+
 **Video: VPN Protocols - CompTIA Network+ N10-006 - 1.2** \
 [https://www.youtube.com/watch?v=IH6FfmvlPAo](https://www.youtube.com/watch?v=IH6FfmvlPAo)\
- 
+
 **Video: VPN Protocols Explained - PPTP vs L2TP vs SSTP vs OpenVPN** \
 [https://www.youtube.com/watch?v=bnV-_BN9OkE](https://www.youtube.com/watch?v=bnV-_BN9OkE)\
 
