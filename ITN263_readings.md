@@ -200,7 +200,7 @@ MIDTERM
 **Video: OpenVPN** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/hands-on-pfsense-2-x/9781789805017/9781789805017-video6_2](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/hands-on-pfsense-2-x/9781789805017/9781789805017-video6_2)\
 
-**_Optional - If you want to try setting up your own VPN on the Internet, you can use Digital Ocean, Linode or AWS Lighsail pretty inexpensively._**
+`**_Optional - If you want to try setting up your own VPN on the Internet, you can use Digital Ocean, Linode or AWS Lighsail pretty inexpensively._**`
 
 **(Optional) Digital Ocean Referral Code: *(Everyone referred gets $100 in credit over 60 days. Any credits earned are used to support the TCC Cybersecurity Club.)*** \
 [https://m.do.co/c/5c10ad3a8470](https://m.do.co/c/5c10ad3a8470)\
@@ -212,7 +212,7 @@ MIDTERM
 ## Unit 13 Reading / Viewing Material
 **Video: Get familiar with OpenVPN** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_2](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_2)\
- 
+
 **Video: Setup certificate authority (CA)** \
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_3](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_3)\
 
