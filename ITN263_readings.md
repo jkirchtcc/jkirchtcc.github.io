@@ -92,35 +92,35 @@
 #### Linux Firewalls
 ### Book: Linux Essentials for Cybersecurity, First Edition
 **Chapter 31 Firewalls** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-essentials-for/9780134853017/ch31.html)\
 
 **Video: An Overview of iptables** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_1
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_1](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_1)\
 
 #### Windows Firewalls (Defender and Windows Advanced Firewall)
 **Video: Windows (Defender) Firewall** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/comptia-a-2019/9781839215490/9781839215490-video16_7
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/comptia-a-2019/9781839215490/9781839215490-video16_7](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/comptia-a-2019/9781839215490/9781839215490-video16_7)\
 
 **Video: Firewalls** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040116
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040116](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040116)\
 
 **Video: Demo - Windows Advanced Firewall** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E04A116
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E04A116](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E04A116)\
 
 **Video: Windows Firewall with Advanced Security** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040117
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040117](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040117)\
 
 **Video: Create a New Rule** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040118
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040118](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040118)\
 
 **Video: Exceptions** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040119
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040119](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040119)\
 
 **Video: Conflicting Firewall Rules** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040120
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040120](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040120)\
 
 **Video: Logging** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040121
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040121](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/70-685-enterprise/300000006A0147/300000006A0147-E040121)\
 
 ---
 ## Unit 07 Reading / Viewing Material
@@ -130,141 +130,141 @@ MIDTERM
 ## Unit 08 Reading / Viewing Material
 ##### Book: CCENT/CCNA ICND1 100-105 Official Certification Guide
 **Chapter 27 - Network Address Translation** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ccentccna-icnd1-100-105/9780134440903/ch27.html
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ccentccna-icnd1-100-105/9780134440903/ch27.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/ccentccna-icnd1-100-105/9780134440903/ch27.html)\
 
 **Video: NAT Fundamentals** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/ccent-icnd1-100-105/9780134664330/9780134664330-ICN1_05_03_01
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/ccent-icnd1-100-105/9780134664330/9780134664330-ICN1_05_03_01](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/ccent-icnd1-100-105/9780134664330/9780134664330-ICN1_05_03_01)\
 
 **Video: Network Address Translation** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/cisco-200-125-ccna/9781492032243/9781492032243-video318923
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/cisco-200-125-ccna/9781492032243/9781492032243-video318923](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/cisco-200-125-ccna/9781492032243/9781492032243-video318923)\
 
 **Video: Introduction to NAT and PAT** *(full version)* \
-https://www.youtube.com/watch?v=xkCgYaJXDSk
+[https://www.youtube.com/watch?v=xkCgYaJXDSk](https://www.youtube.com/watch?v=xkCgYaJXDSk)\
 
 ---
 ## Unit 09 Reading / Viewing Material
 ##### Book: A Practical Guide to Ubuntu Linux®, Fourth Edition
 **Chapter 26 - ufw, gufw, and iptables: Setting Up a Firewall** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/a-practical-guide/9780133927368/ch26.html
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/a-practical-guide/9780133927368/ch26.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/a-practical-guide/9780133927368/ch26.html)\
  
 **Video: 6.12 Understanding Firewalling** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-troubleshooting-red/9780135207598/9780135207598-LTRB_02_06_12
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-troubleshooting-red/9780135207598/9780135207598-LTRB_02_06_12](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-troubleshooting-red/9780135207598/9780135207598-LTRB_02_06_12)\
 
 **Video: An Overview of iptables** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_1
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_1](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_1)\
 
 **Video: Uncomplicated Firewall for Ubuntu Systems** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_2
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_2](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_2)\
 
 **Video: firewalld for Red Hat Systems** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_3
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_3](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_3)\
 
 **Video: nftables – A More Universal Type of Firewall System** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_4
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_4](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/mastering-linux-security/9781789340884/9781789340884-video3_4)\
 
 ---
 ## Unit 10 Reading / Viewing Material
 **Video: pfSense As a Firewall** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video3_2
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video3_2](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video3_2)\
 
 **Video: 2018 Getting started with pfsense 2.4 from install to secure! including multiple separate networks** \
-https://www.youtube.com/watch?v=9kSZ1oM-4ZM
+[https://www.youtube.com/watch?v=9kSZ1oM-4ZM](https://www.youtube.com/watch?v=9kSZ1oM-4ZM)\
 
 ---
 ## Unit 11 Reading / Viewing Material
 ##### Book: Linux® Firewalls: Enhancing Security with nftables and Beyond, Fourth Edition
 **Chapter 7 - Packet Forwarding** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-firewalls-enhancing/9780134000206/ch07.html
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-firewalls-enhancing/9780134000206/ch07.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/linux-firewalls-enhancing/9780134000206/ch07.html)\
 
 **Video: 6.6 Understanding NAT and Port Forwarding** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/red-hat-certified/9780134755823/9780134755823-RHCE_02_06_06
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/red-hat-certified/9780134755823/9780134755823-RHCE_02_06_06](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/red-hat-certified/9780134755823/9780134755823-RHCE_02_06_06)\
 
 **Video: NAT With iptables** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/learning-linux-security/9781771374194/9781771374194-video216365
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/learning-linux-security/9781771374194/9781771374194-video216365](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/learning-linux-security/9781771374194/9781771374194-video216365)\
 
 **Video: 7.5 Understanding Access Control Lists** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-foundation-certified/9780134783253/9780134783253-LFCS_02_07_05
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-foundation-certified/9780134783253/9780134783253-LFCS_02_07_05](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-foundation-certified/9780134783253/9780134783253-LFCS_02_07_05)\
 
 **Video: 6.5 Creating and Managing Access Control Lists (ACLs)** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/red-hat-certified/9780134193281/9780134193281-RHAW_lesson06_05
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/red-hat-certified/9780134193281/9780134193281-RHAW_lesson06_05](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/red-hat-certified/9780134193281/9780134193281-RHAW_lesson06_05)\
 
 ---
 ## Unit 12 Reading / Viewing Material
 ##### Book: VPNs Illustrated: Tunnels, VPNs, and IPsec
 **Chapter 5. Lightweight VPNs** *(Specifically, section 8.5 OpenVPN)* \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch08.xhtml
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch08.xhtml](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch08.xhtml)\
 
 **Video: 13.3 Configuring and operating OpenVPN server and clients** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-security-red/9780134598345/9780134598345-LISE_03_13_03
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-security-red/9780134598345/9780134598345-LISE_03_13_03](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/linux-security-red/9780134598345/9780134598345-LISE_03_13_03)\
 
 **Video: OpenVPN** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/hands-on-pfsense-2-x/9781789805017/9781789805017-video6_2
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/hands-on-pfsense-2-x/9781789805017/9781789805017-video6_2](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/hands-on-pfsense-2-x/9781789805017/9781789805017-video6_2)\
 
 **_Optional - If you want to try setting up your own VPN on the Internet, you can use Digital Ocean, Linode or AWS Lighsail pretty inexpensively._**
 
 **(Optional) Digital Ocean Referral Code: *(Everyone referred gets $100 in credit over 60 days. Any credits earned are used to support the TCC Cybersecurity Club.)*** \
-https://m.do.co/c/5c10ad3a8470
+[https://m.do.co/c/5c10ad3a8470](https://m.do.co/c/5c10ad3a8470)\
 
 **Article: How To Set Up an OpenVPN Server on Ubuntu 18.04** \
-https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04
+[https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04)\
 
 ---
 ## Unit 13 Reading / Viewing Material
 **Video: Get familiar with OpenVPN** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_2
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_2](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_2)\
  
 **Video: Setup certificate authority (CA)** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_3
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_3](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_3)\
 
 **Video: Setup OpenVPN tunnel** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_4
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_4](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_4)\
 
 **Video: Install OpenVPN client** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_5
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_5](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_5)\
 
 **Video: Configure OpenVPN connection** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_6
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_6](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video5_6)\
 
 **Video: OpenVPN as a WAN on pfSense** *(1 Hour, 20 Mins)* \
-https://www.youtube.com/watch?v=lp3mtR4j3Lw
+[https://www.youtube.com/watch?v=lp3mtR4j3Lw](https://www.youtube.com/watch?v=lp3mtR4j3Lw)\
 
 **Video: How To Setup OpenVPN For Remote Access On pfsense** \
-https://www.youtube.com/watch?v=7rQ-Tgt3L18
+[https://www.youtube.com/watch?v=7rQ-Tgt3L18](https://www.youtube.com/watch?v=7rQ-Tgt3L18)\
 
 ---
 ## Unit 14 Reading / Viewing Material
 ##### Book: VPNs Illustrated: Tunnels, VPNs, and IPsec
 **Chapter 5 - Virtual Private Networks** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch05.xhtml
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch05.xhtml](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/vpns-illustrated-tunnels/032124544X/ch05.xhtml)\
 
 **Video: 6.6 Implement a VPN connection** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/windows-server-70-741/9780134772974/9780134772974-WS41_01_06_06
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/windows-server-70-741/9780134772974/9780134772974-WS41_01_06_06](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/windows-server-70-741/9780134772974/9780134772974-WS41_01_06_06)\
  
 **Video: VPN Protocols - CompTIA Network+ N10-006 - 1.2** \
-https://www.youtube.com/watch?v=IH6FfmvlPAo
+[https://www.youtube.com/watch?v=IH6FfmvlPAo](https://www.youtube.com/watch?v=IH6FfmvlPAo)\
  
 **Video: VPN Protocols Explained - PPTP vs L2TP vs SSTP vs OpenVPN** \
-https://www.youtube.com/watch?v=bnV-_BN9OkE
+[https://www.youtube.com/watch?v=bnV-_BN9OkE](https://www.youtube.com/watch?v=bnV-_BN9OkE)\
 
 ---
 ## Unit 15 Reading / Viewing Material
 **Video: Introduction to Squid proxy server** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_2
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_2](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_2)\
 
 **Video: Install Squid proxy server** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_3
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_3](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_3)\
 
 **Video: Configure Squid proxy server** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_4
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_4](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_4)\
 
 **Video: Configure Squid proxy server rules** \
-https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_5
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_5](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/security-manage-network/9781789538991/9781789538991-video7_5)\
 
 **Video: Configuring CA or Certificate Authority with your pFSense Firewall** \
-https://www.youtube.com/watch?v=vZpAIKJ9jyA
+[https://www.youtube.com/watch?v=vZpAIKJ9jyA](https://www.youtube.com/watch?v=vZpAIKJ9jyA)\
 
 **Video: What is a Proxy Server?** \
-https://www.youtube.com/watch?v=qU0PVSJCKcs&feature=youtu.be
+[https://www.youtube.com/watch?v=qU0PVSJCKcs&feature=youtu.be](https://www.youtube.com/watch?v=qU0PVSJCKcs&feature=youtu.be)\
 
 **Video: How To Configure A Transparent Proxy Using PFSense** \
-https://www.youtube.com/watch?v=5FeEwVx6qUs
+[https://www.youtube.com/watch?v=5FeEwVx6qUs](https://www.youtube.com/watch?v=5FeEwVx6qUs)\
