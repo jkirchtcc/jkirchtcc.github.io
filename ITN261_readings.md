@@ -209,7 +209,7 @@ MIDTERM
 ## Unit 14 Reading / Viewing Material
 **Article: “Exploits of a Mom” by  Randall Munroe**\
 [https://xkcd.com/327/](https://xkcd.com/327/)\
- 
+
 ### Book: SQL Injection Attacks and Defense, 2nd Edition
 **Chapter 1 - What Is SQL Injection?**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/sql-injection-attacks/9781597499637/xhtml/CHP001.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/sql-injection-attacks/9781597499637/xhtml/CHP001.html)\
@@ -217,10 +217,10 @@ MIDTERM
 ### Book: Penetration Testing: A Survival Guide
 **Chapter 15 - Attacking the Server Using Injection-based Flaws**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch15.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch15.html)\
- 
+
 **Video: Running an SQL Injection Attack - Computerphile**\
 [https://www.youtube.com/watch?v=ciNHn38EyRc](https://www.youtube.com/watch?v=ciNHn38EyRc)\
- 
+
 **Video: SQL Injection Attack Tutorial (2018)**\
 [https://www.youtube.com/watch?v=WFFQw01EYHM](https://www.youtube.com/watch?v=WFFQw01EYHM)\
 
@@ -233,7 +233,7 @@ MIDTERM
 ### Book: Penetration Testing: A Survival Guide
 **Chapter 3. Exploitation Tools (Pwnage)**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch03.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch03.html)\
- 
+
 **Article: SSH Hacking Guide**\
 [https://community.turgensec.com/ssh-hacking-guide/](https://community.turgensec.com/ssh-hacking-guide/)\
 
