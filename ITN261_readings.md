@@ -180,7 +180,7 @@ MIDTERM
 ### Book: The Basics of Hacking and Penetration Testing, 2nd Edition
 **Chapter 6 - Web-Based Exploitation**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-basics-of/9780124116443/xhtml/CHP006.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/the-basics-of/9780124116443/xhtml/CHP006.html)\
- 
+
 **Video: Hacking Webservers**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/certified-ethical-hacker/9780135647455/9780135647455-CEH2_04_13_00](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/certified-ethical-hacker/9780135647455/9780135647455-CEH2_04_13_00)\
 
