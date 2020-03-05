@@ -229,7 +229,7 @@ MIDTERM
 ## Unit 15 Reading / Viewing Material
 **Article: “Using Exploits in Metasploit” by Offensive Security**\
 [https://www.offensive-security.com/metasploit-unleashed/using-exploits/](https://www.offensive-security.com/metasploit-unleashed/using-exploits/)\
- 
+
 ### Book: Penetration Testing: A Survival Guide
 **Chapter 3. Exploitation Tools (Pwnage)**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch03.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch03.html)\
