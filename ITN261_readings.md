@@ -81,16 +81,21 @@
 ## Unit 06 Reading / Viewing Material
 **Article: "pest control: taming the rats" by Denbow, Shawn; Hertz, Jesse.**\
 [https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/PEST-CONTROL.pdf](https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/PEST-CONTROL.pdf)\
+
 **Article: “DarkComet RAT - It is the END!” by Symantec Security Response**\
 [https://www.symantec.com/connect/blogs/darkcomet-rat-it-end](https://www.symantec.com/connect/blogs/darkcomet-rat-it-end)\
+
 **Article: “You Dirty RAT! Part 1 – DarkComet” by Adam Kujawa**\
 [https://blog.malwarebytes.com/threat-analysis/2012/06/you-dirty-rat-part-1-darkcomet/](https://blog.malwarebytes.com/threat-analysis/2012/06/you-dirty-rat-part-1-darkcomet/)\
+
 **Article: “What is Meterpreter?” by Offensive Security**\
 [https://www.offensive-security.com/metasploit-unleashed/about-meterpreter/](https://www.offensive-security.com/metasploit-unleashed/about-meterpreter/)\
 ### Book: Metasploit
+
 **Chapter 6 - Meterpreter**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/metasploit/9781593272883/ch06.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/metasploit/9781593272883/ch06.html)\
 ### Book: Penetration Testing
+
 **Chapter 13 - Post Exploitation**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing/9781457185342/ch13.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing/9781457185342/ch13.html)\
 
@@ -109,6 +114,7 @@
 
 ## Unit 08 Reading / Viewing Material
 MIDTERM
+
 ---
 
 ## Unit 09 Reading / Viewing Material
