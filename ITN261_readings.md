@@ -6,7 +6,7 @@
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/cisco-networks-engineers/9781484208595/9781484208601_Ch22.xhtml](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/cisco-networks-engineers/9781484208595/9781484208601_Ch22.xhtml)\
 
 ### Book: Penetration Testing: A Survival Guide
-**Chapter 13 - Reconnaissance and Profiling the Web Server**\
+**Chapter 3 - Reconnaissance and Profiling the Web Server**\
 [https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch13.html](https://learning-oreilly-com.eztcc.vccs.edu:2443/library/view/penetration-testing-a/9781787287839/ch13.html)\
 
 ### Book: The Basics of Hacking and Penetration Testing, 2nd Edition
