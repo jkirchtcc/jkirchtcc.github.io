@@ -12,6 +12,12 @@
 **Video: Network Troubleshooting at the Command Line - CompTIA A+ 220-802: 4.5**\
 [https://www.youtube.com/watch?v=o7s9No_tCx0](https://www.youtube.com/watch?v=o7s9No_tCx0)\
 
+**Video: Learning DNS By Cricket Liu *(Sections on Query Tools - nslookup and dig)***\
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/learning-dns/9781771373692/9781771373692-video217160](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/learning-dns/9781771373692/9781771373692-video217160)\
+
+**Video: Certified Ethical Hacker (CEH), 2nd Edition By Omar Santos / Nick Garner / William Bo Rothwell**\
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/certified-ethical-hacker/9780135647455/9780135647455-CEH2_01_03_10](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/certified-ethical-hacker/9780135647455/9780135647455-CEH2_01_03_10)\
+
 ---
 
 ## Unit 03 Reading / Viewing Material
