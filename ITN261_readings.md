@@ -16,6 +16,14 @@
 **Video: DEFCON 16: Nmap: Scanning the Internet *(Note: NMAP is ACTIVE scanning)***\
 [https://www.youtube.com/watch?v=Hk-21p2m8YY](https://www.youtube.com/watch?v=Hk-21p2m8YY)\
 
+### Video: Learning DNS By Cricket Liu
+**Video: Sections on Query Tools - nslookup and dig**\
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/learning-dns/9781771373692/9781771373692-video217160](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/learning-dns/9781771373692/9781771373692-video217160)\
+
+### Video: Certified Ethical Hacker (CEH), 2nd Edition By Omar Santos / Nick Garner / William Bo Rothwell
+**Video: 3.10 DNS/Whois**\
+[https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/certified-ethical-hacker/9780135647455/9780135647455-CEH2_01_03_10](https://learning-oreilly-com.eztcc.vccs.edu:2443/videos/certified-ethical-hacker/9780135647455/9780135647455-CEH2_01_03_10)\
+
 ---
 
 ## Unit 03 Reading / Viewing Material
