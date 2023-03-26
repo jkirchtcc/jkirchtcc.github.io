@@ -39,3 +39,114 @@ ul.posts {
 ul.posts li {
 	list-style: none;
 }
+
+.label {
+    display: flex;
+	flex-direction: column;
+    flex-wrap: wrap;
+    width: 10%;
+    border: #555555;
+    padding: 0em;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	width: 600px;
+	box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+	border-top: 5px solid #009578;
+	border-bottom: 5px solid #009578;
+}
+
+.icon {
+	display: flex;
+	justify-content: space-between;
+	padding: 1em;
+}
+
+.icon__description {
+	background:rgba(0, 0, 0, 0.15);
+	border:rgba(0, 0, 0, 0.54);
+	outline: 1;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+    text-align: center;
+}
+
+.material-symbols-outlined {
+
+  align-self: center;
+  font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+  
+  /* Rules for sizing the icon. */
+  .material-symbols-outlined.md-18 { font-size: 18px; }
+  .material-symbols-outlined.md-24 { font-size: 24px; }
+  .material-symbols-outlined.md-36 { font-size: 36px; }
+  .material-symbols-outlined.md-48 { font-size: 48px; }
+  
+  /* Rules for using icons as black on a light background. */
+  .material-symbols-outlined.md-dark { color: rgba(0, 0, 0, 0.54); }
+  .material-symbols-outlined.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+  
+  /* Rules for using icons as white on a dark background. */
+  .material-symbols-outlined.md-light { color: rgba(255, 255, 255, 1); }
+  .material-symbols-outlined.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+    align-self: center;
+    
+  
+    /* Support for all WebKit browsers. */
+    -webkit-font-smoothing: antialiased;
+    /* Support for Safari and Chrome. */
+    text-rendering: optimizeLegibility;
+  
+    /* Support for Firefox. */
+    -moz-osx-font-smoothing: grayscale;
+  
+    /* Support for IE. */
+    font-feature-settings: 'liga';
+  }
+
+/* Rules for sizing the icon. */
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+/* Rules for using icons as black on a light background. */
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+/* Rules for using icons as white on a dark background. */
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
